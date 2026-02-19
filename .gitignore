@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.pt
+*.h5
+*.ckpt
